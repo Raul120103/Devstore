@@ -47,11 +47,9 @@ flex-direction: row;
 margin-left: 52px;
 margin-top: 20px;
 }
-
 .box-input3 {
     margin-left: 55px;
     margin-top: 20px;
-
 }
 .cada-inputs{
     margin-left: 25px;
@@ -71,11 +69,9 @@ input {
     padding-left: .5em;
     box-sizing: border-box;
 }
-
 .cada-inputs1 input {
     width: 510px;
 }
-
 textarea {
     margin-Left: 8px;
     width: 510px;
@@ -113,7 +109,6 @@ td button {
 }
 thead {
     background-color: #6CC3DF;
-
     height: 130%;
 }
 th {
